@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestMozper</string>
+    <string name="string_login">Login</string>
+    <string name="string_home">Home</string>
+    <string name="string_details">Details</string>
+    <string name="string_logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="no_data">Data was not found</string>
+</resources>
